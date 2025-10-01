@@ -1,0 +1,17 @@
+{
+  "security": {
+    "auth": {
+      "selectedType": "oauth-personal"
+    }
+  },
+  "general": {
+    "vimMode": false
+  },
+  "output": {
+    "format": "text"
+  },
+  "ui": {
+    "showLineNumbers": true,
+    "showCitations": true
+  }
+}
